@@ -15,4 +15,8 @@
         <RepositoryUrl>https://github.com/Padutronics/Padutronics.Triggers.Observing</RepositoryUrl>
         <RepositoryType>Git</RepositoryType>
     </PropertyGroup>
+    <ItemGroup>
+        <PackageReference Include="Padutronics.Observing" Version="0.1.0" />
+        <PackageReference Include="Padutronics.Triggers" Version="0.1.0" />
+    </ItemGroup>
 </Project>
